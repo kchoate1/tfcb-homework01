@@ -12,3 +12,14 @@ There are also pictures of other types of bugs such as-
 2. Acathomyrmex
 3. Cataglyphis
 
+## whoever produced this set of data and images had terrible organization skills, so I fixed it for them!
+
+[Here's the link:] (https://github.com/kchoate1/tfcb-homework01/blob/main/data/Survey_Data_20240910.csv)
+
+
+# In general, tables should have one variable per column, like so:
+
+CREATE table Example_Data (Variable 1, Variable 2, Variable 3, Variable 4);
+
+
+
