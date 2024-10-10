@@ -19,7 +19,12 @@ There are also pictures of other types of bugs such as-
 
 # In general, tables should have one variable per column, like so:
 
-CREATE table Example_Data (Variable 1, Variable 2, Variable 3, Variable 4);
 
+| Variable 1        | Variable 2 | Variable 3 |
+| :---------------- | :--------: | ---------: |
+| data              |  data      | data       |
+| data              |  data      | data       |
+| data              |  data      | data       |
+| data              |  data      | data       |
 
 
